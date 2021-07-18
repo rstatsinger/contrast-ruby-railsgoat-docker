@@ -25,8 +25,8 @@ Just git and docker
         level: ERROR
        host: 127.0.0.1
        port: 30555
-assess:
- enable: true
+   assess:
+    enable: true
 ```
 
 4. build.sh - this will take a ##long time## the first time you build it
