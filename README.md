@@ -3,7 +3,7 @@ RailsGoat - Demo App for Contrast Security's Instrumentation-Based AppSec platfo
 
 This is an intentionally vulnerable Ruby web application. It includes vulnerabilities from the OWASP Top 10 and is intended to be used as an educational tool for developers and security professionals. Any maintainers are welcome to make pull requests.
 
-This setup runs the application in a Docker container, isolating it from you environment.
+This setup runs the application in a Docker container, isolating it from your environment.
 
 ## Prerequisites
 
