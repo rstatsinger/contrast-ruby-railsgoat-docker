@@ -29,7 +29,7 @@ Just git and docker
     enable: true
 ```
 
-4. build.sh - this will take a ##long time## the first time you build it
+4. build.sh - this will take a long time the first time you build it
 5. run.sh
 6. Interact with the application at http://localhost:3000 and look for the **RubyOnRailsDocker** application in your Contrast account's UI
 
