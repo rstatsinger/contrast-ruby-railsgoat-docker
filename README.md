@@ -7,7 +7,7 @@ This setup runs the application in a Docker container, isolating it from your en
 
 ## Prerequisites
 
-A Contrast Security account, git, and docker
+A Contrast Security account, git, and docker (with docker compose)
 
 ## Instructions
 1. git clone this repo
