@@ -12,7 +12,7 @@ A Contrast Security account, git, and docker (with docker compose)
 ## Instructions
 1. git clone this repo
 2. Drop your contrast_security.yaml file for the Ruby agent into the project root directory
-3. Edit the yaml file so that the **agent** stanza looks like this:
+3. Edit the yaml file so that the **agent** stanza looks like the below, and add the **assess** stanza as shown:
 
 ```
   agent: 
